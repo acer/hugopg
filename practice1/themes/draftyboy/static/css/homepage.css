@@ -1,0 +1,32 @@
+html {
+  font-size: 40px;
+}
+
+p {
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}
+
+a {
+  color: black;
+}
+
+iframe {
+  margin: 0 auto;
+  display: block;
+}
+
+.badnamingpractice {
+   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.list-to-shit {
+  font-size:
+}
+
+.smallertext {
+  font-size: 20pt;
+}

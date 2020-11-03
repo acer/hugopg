@@ -1,0 +1,4 @@
+baseURL = "http://taotao.kitchen"
+languageCode = "en-us"
+title = "滔饕 - TaoTao"
+theme = "draftyboy"
