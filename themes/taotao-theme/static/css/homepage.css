@@ -1,32 +1,14 @@
-    html {
-      font-size: 40px;
-    }
+#content {
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
-  	p {
-  		text-align: center;
-		  font-family: 'EB Garamond', serif;
-  	}
+.smallertext {
+	font-size: 20pt;
+}
 
-    a {
-      color: black;
-    }
-
-  	iframe {
-	    margin: 0 auto;
-		  display: block;
-  	}
-
-  	#content {
-  		position: absolute;
-		  top: 50%;
-		  left: 50%;
-		  transform: translate(-50%, -50%);
-  	}
-
-    .list-to-shit {
-      font-size: 20pt;
-    }
-
-  	.smallertext {
-  		font-size: 20pt;
-  	}
+p {
+    text-align: center;
+}
