@@ -1,8 +1,4 @@
-html {
-  font-size: 40px;
-}
-
-p {
+body {
   font-family: 'EB Garamond', serif;
 }
 
@@ -31,7 +27,7 @@ header > a:hover {
 #nav-list {
   position: absolute;
   right: 50px;
-  bottom: 2.8vh;
+  top: 1.5vh;
 }
 
 header ul {
@@ -54,3 +50,18 @@ header li > a:hover {
   font-size: 18px;
   text-align: center;
 }
+
+.title {
+  font-size: 2.5em;
+  padding-top: 100px;
+  text-align: center;
+  margin: 0;
+}
+
+.subtitle {
+  font-size:  0.8em;
+  text-align: center;
+  margin: 0;
+  padding-bottom: 1vw;
+}
+

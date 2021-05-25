@@ -1,14 +1,17 @@
 #content {
-	position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
 
+h1 {
+    font-size: 40pt;
+}
+#intro-text {
+    font-size: 20pt;
+}
 .smallertext {
 	font-size: 20pt;
-}
-
-p {
-    text-align: center;
 }
