@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Taotao Kitchen"
+theme = "taotao-theme"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true
