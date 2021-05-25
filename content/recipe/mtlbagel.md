@@ -108,7 +108,7 @@ Read all the steps first before you try anything. Our humble experience is that 
 
 14.  Bake between 14-16 minute, maybe 20 minutes if you're using a baking sheet? Honestly I don't know. Google "St Viateur Bagels" and look at how brown theirs is, and pull your bagels out when it's just before the colour you googled. While you bake, start rolling the next batch
 
-15.  Let them fucking rest. Best tasting bagels aren't the fresh ones straight out the oven, but the ones that sat around for a bit. Eat the first batch when you're done rolling the third. Shit's going to straight fire
+15.  Let them fucking rest. Best tasting bagels aren't the fresh ones straight out the oven, but the ones that sat around for a bit. Eat the first batch when you're done rolling the third. Shit's going to be straight fire
 
 ## Notes
 

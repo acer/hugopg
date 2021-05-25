@@ -20,13 +20,35 @@ header {
   background-color: white;
 }
 
-header a {
+header > a {
  text-decoration: none;
 }
 
-header a:hover {
+header > a:hover {
   text-decoration: underline;
 }
+
+#nav-list {
+  position: absolute;
+  right: 50px;
+  bottom: 2.8vh;
+}
+
+header ul {
+  font-size: 0.8em;
+  display: inline-block;
+  margin: 0;
+}
+
+header li {
+  display: inline-block;
+  padding:  0 0.3em;
+}
+
+header li > a:hover {
+  text-decoration: none;
+}
+
 
 .footer {
   font-size: 18px;
