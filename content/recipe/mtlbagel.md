@@ -6,7 +6,10 @@ draft: false
 css: "recipes"
 ---
 
+If you hate reading stories, go to recipe [here]({{< relref "#if-you-dont-fuck-with-intros-read-this-instead" >}}) you filthy casual.
+
 ## Read the Damn Intro Will Ya
+
 
 My roommate Alexis and I have always been hardcore fans of Montreal-style Bagels.
 

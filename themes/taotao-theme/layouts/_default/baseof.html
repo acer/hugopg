@@ -6,7 +6,7 @@
         {{if not (in .Title "Welcome")}}
             {{partial "header.html" .}}
         {{end}}
-        <div id="content">
+        <div id="page-content">
         {{- block "main" . }}{{- end }}
         </div>
         {{if not (in .Title "Welcome")}}
