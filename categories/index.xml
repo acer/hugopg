@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Taotao Kitchen</title>
+    <title>Categories on Taotao Kitchen - Staging</title>
     <link>https://hugopg.acer.io/categories/</link>
-    <description>Recent content in Categories on Taotao Kitchen</description>
+    <description>Recent content in Categories on Taotao Kitchen - Staging</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hugopg.acer.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

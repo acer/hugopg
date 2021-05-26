@@ -12,6 +12,7 @@ header {
   border-bottom: 1px solid black;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
   padding:  1vh;
   background-color: white;
